@@ -1,0 +1,7 @@
+deploy:
+  provider: heroku
+  api_key:
+    secure:
+  app: arctic-sorry-53820
+  on:
+    repo: heroku/scala-getting-started
