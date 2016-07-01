@@ -6,7 +6,5 @@ jdk:
 deploy:
   provider: heroku
   api_key:
-      app: arctic-sorry-53820
-env:
-  global:
     secure: TNKinqNnB58ja9nDgltodZ7MdN33Bk38IHQLocqTfB1HLYveXOVpLzxlSxQaCcAB5x5WRcn7TJxiKr1hre0i0nL1UEiwa7Bt+7SgTJtNWe1oqDNOuBdYXBYxpCjYItqmXiDL2TMpvk8yfKn+oJru9uSNMjhXfY2w3gFkPEN3U0MXJAunfoDV/ePpYruMcgVLiNF0Uic68dLNSIitByZyE+8Rriu/6lX2zViVyvk4taoFVj+XlunHfK4BnT4byQc6+C+bfLhAxoGIKybckG4p+QbiVDDcDB/lLLJjyZ6GS/1XbXXeLiLe99ztB5QbzFdHE0f8ogaUg0e9/tH+UqsfOaiUn548yOXd5LejZFmQpI8okNRo2Zsxf3PhbDQCYQNk8aqdf3WT1mo74p5G3wrRwJ8n8rMx3YH23UgUZxwVTR/cmwOccgPDAZmYwqBgAb1+QqJeltFrBnm101quzAsMN23chmDDNyw7a2vy3HYimlTihKPGuq80FN04Ozp47PUz5/bS0ukHWNKFIPphz0J4SVgY3jncjkKLesMElxeUh0m9IXom3foe22IMenuPmennZsE2mBhiOvkAt7yaT4aOxtCOHR4BJhH0Z0ACp0LNl5WXjUNALtEDgz6hdx4zKVN+LgBmn2AuPF0bm8seQm+Me/SYjSDvBwTIpisC7BY3Ajk=
+  app: arctic-sorry-53820
