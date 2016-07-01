@@ -7,6 +7,6 @@ deploy:
   provider: heroku
   api_key:
     secure: kGqDWKi/EX+wNC+KYcEva2QLNrH0Z8cfiIhnV2d3IJ/sJv2kGHKecprFjZSPwTBqvuLjNqpoc6nweQozOqqnwWyGzs7E3p5Un1VVip63rRdDRvY4jXfCU2DDoNGhYLkcE/vxLBfnwmrw5gzSTXPorc227dWhAEuD4qJHZT+7juEPMkvC84jt5zUAvbIaY6bJ8j9uD7TzZs2bl+2S+ovCDUPY9FCLzUNQJpr/BrzSZk95CnwkqUtQAVO71iGbeWe5Vt2EZXfCmDrOApsXyLVcvU2TEBKTONOVq4Zc1n0qy8c4UNv5om0kHxR/ZpeLbqeppDknJ0exfg5PUKBmpuPjkNLcBm2m+KUw87Wg8+RiPcnU9X4qQlhVwpl5AhfJEGXRsnxKcRyLIzsMx2Oph/v92cmgu9qdLFpOBK9e1ZiSaAGqVFasvSZsHaWUl0qJQ7R7Sa/XJNcviBMXzlSHeHFyHshck7K/LyLACJ8HC+rUjm/lPK3Z+Sg9euiCInoNpBogxPU54jQgQKjz+foZrG7A5TPZJS/GOW3l9JsxoG/esWQEpAnApD+NpprcPQGFf5VheM1LuzlwI4Uh8mqsiu3ncUtHzs9R2bXOednn/TPHtEWMJut306xTKoTeZTbLUnX3/bVR9AlGcPjYo91xv4AZiXNHLu9DbqP+TYWOj5WHqzQ=
-  app: scala-heroku-postgres-test-1
+  app: arctic-sorry-53820
   on:
     repo: Froom2/scala-heroku-postgres-test-1
