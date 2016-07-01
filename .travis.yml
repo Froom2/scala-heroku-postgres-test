@@ -1,7 +1,7 @@
 deploy:
   provider: heroku
   api_key:
-    secure:
+    secure: "K+KsIHs+SexVb3YLYZ+UG1ASP/ZDqlbB9PxN5qeSDQIBySZn5Vtk4DjRlQWNSvaxuskLJJ2E1e1isj9nlAOQrs3+jcBQkobMMromLEabogXERRydaUSm7x++DYdKmh/cm0sfO1cvgnvEPsJs2o3eBlp+ZzB6fLvbIs0fpU688r92m7mJS3vSffrFo18HCvh4nHMCKZ/UbCIzwX0600CFVW0DrjhS2asahmgvL8NDU8C9lYUTgVB6GohHn1rX+Qw7cE96RAkCSXzJ78ZYlt2aAWWsXPqk0uA5i6Fbj/bzyne+y+oMKPwpShwe0KbFX5A0NpE7kWDy3RW1xR70wO3gI6DaS/9KtBO0ejEf+h7YsLhT0n1QoOehNrQ0E4W3ulgimxaf4c4cDDILki8X/k3jE9r/GafpxplBgvtJySpqZpINq2mHQ0feqY4HJx7YVKXxlVNmuiC5OOQG1TVjiullMc4qIh5wjMQ82SLzDUSjqZSPKox5curraGmpq3clSR7L84IR87wK2SKb6wrY/VCldquS6fxgjSV/HNod1LHNLYfaKohtfDa5iDh//ayu8A/bEQWDUSpdyQKlSlv273S3q6W/f0krq98JLmfS+WGj/lbABdCU0L+T+J5hhLfcQbdg6AOy1OC9BoIlg0r63SRdQ0h3IL6fReQSGVURNXShjvQ="
   app: arctic-sorry-53820
   on:
     repo: heroku/scala-getting-started
